@@ -1,4 +1,5 @@
-#include <stdi.h>
+#include <stdio.h>
+
 
 /**
  * main - Entry of the program
