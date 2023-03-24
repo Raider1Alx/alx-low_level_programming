@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- * don’t delete it!
  * main - causes an infinite loop
  * Return: 0
  */
